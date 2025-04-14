@@ -13,3 +13,5 @@ Change the body's backgroundImage to:
 (Note I've already added some CSS to resize the image within the window.
 Instructions for this were found on CSS Tricks:
 https://css-tricks.com/perfect-full-page-background-image/#awesome-easy-progressive-css3-way)
+
+step :2 - add Author name
