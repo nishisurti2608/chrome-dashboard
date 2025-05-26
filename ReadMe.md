@@ -22,17 +22,10 @@ The **Personal Dashboard** is a simple yet functional web app built using only H
 
 ## Live Demo
 
-[View Live Dashboard](https://personal-dashboard-claudio.netlify.app/) <!-- Replace with actual link -->
+[View Live Dashboard](https://nishi-chrome-dashboard.netlify.app/) <!-- Replace with actual link -->
 
-## Repository
 
-[GitHub Repository](https://github.com/claudiooleite/personal_dashboard) <!-- Replace with actual link -->
-
-## Screenshots
-
-### Dashboard View
-
-![Dashboard Screenshot](./images/desktop-dashboard.png) <!-- Replace with actual image path -->
+##Challanges solved :
 
 
 
