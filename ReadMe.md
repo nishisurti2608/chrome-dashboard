@@ -1,4 +1,4 @@
-# Personal Dashboard 📊
+# Personal Dashboard 
 
 ## Project Overview
 
